@@ -1,0 +1,51 @@
+body{
+    margin: 0px 20px;
+    font-family: 'Marvel', sans-serif;
+    color: #FFF;
+    background-image: url('../images/pizza.gif');
+    background-repeat: repeat;
+}
+h1{
+    font-size: 3em;
+    margin: 20px 10px;
+}
+h2{
+    font-size: 1.5;
+    color: #FFF;
+    margin-left: 10px; 
+}
+p{
+    color: #FFF;
+    width: 200px;
+    font-size: 1.5;
+    margin-left: 10px;
+}
+.btn{
+    font-size: 2em;
+    border: 3px double #FFF;
+    padding: 5px 16px;
+    text-decoration: none;
+    color: #F00;
+    border-radius: 10px;
+    margin: 10px;
+} 
+.btn:hover{
+    background-color: #F00;
+    color: #FFF;
+}
+.primary-btn{
+    background: #960;
+    color: #FFF
+}
+.primary-btn:hover{
+    background: #966;
+    color: #000;
+}
+.secondary-btn{
+    background: #392;
+    color: #000;
+}
+.secondary-btn:hover{
+    background: #3F2;
+    color: #FFF;
+}
